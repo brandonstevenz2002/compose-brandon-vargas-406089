@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//sell
 @Composable
 fun SettingsContainer(modifier: Modifier = Modifier) {
     Column(
